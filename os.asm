@@ -22,7 +22,7 @@
 ; This file is part of a simple 16 bit operating system. 
 ; It resides within the first boot sector.
 ;
-; Copyright 2019 Algonquin College. No part of this file may be
+; Copyright 2020 Algonquin College. No part of this file may be
 ; reproduced, in any form or by any other means, without
 ; permission in writing from the College.
 ;
